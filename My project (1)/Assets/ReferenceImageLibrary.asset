@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5627687958848538987
+  m_GuidHigh: 12762514329129241516
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5613599395688504235
+      m_GuidHigh: 14770930276630358665
+    m_SerializedTextureGuid:
+      m_GuidLow: 17232093846824692779
+      m_GuidHigh: 13915015482472279705
+    m_Size: {x: 0.1, y: 0.06640625}
+    m_SpecifySize: 0
+    m_Name: WhatsApp Image 2022-01-13 at 10.11.41 PM
+    m_Texture: {fileID: 2800000, guid: dc2e2c2bb20def24992ed23cdb101cc1, type: 3}
